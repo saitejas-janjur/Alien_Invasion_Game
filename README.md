@@ -16,7 +16,7 @@ This is a Alien Invasion 2-D game built in python using pygame.
 
 How to play:
 * Use the arrow keys to move left or right.
-* Use the space bar yo shoot bullets.
+* Use the space bar to shoot bullets.
 * Shooting aliens - [Work in progress]
 
 Open and run the `alien_invasion.py` to get started.

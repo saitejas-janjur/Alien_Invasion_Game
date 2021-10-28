@@ -9,14 +9,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot](https://github.com/saitejas-janjur/Alien_Invasion_Game/blob/main/images/Game_demo.PNG)
 
 This is a Alien Invasion 2-D game built in python using pygame.  
 
 How to play:
 * Use the arrow keys to move left or right.
 * Use the space bar yo shoot bullets.
-* Shooting aliens - [Work in progress]
+* Shoot aliens before they come to ship level. 
 
 Open and run the `alien_invasion.py` to get started.
 
